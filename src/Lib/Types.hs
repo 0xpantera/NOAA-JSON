@@ -1,6 +1,5 @@
 module Lib.Types where
 
-import Lib
 import Data.Aeson
 import Data.Text as T
 import Data.ByteString.Lazy as B
